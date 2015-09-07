@@ -1,0 +1,19 @@
+﻿body {
+    background-image:url("../images/finland_waving_flag_640.png");
+    background-size:cover;
+    font-weight:900;
+    font-family:'Arial Rounded MT';
+}
+
+table, td  {
+    border: 10px solid yellow;
+}
+
+th {
+    background-color: palevioletred;
+    color: white;
+}
+
+li {
+    display: inline;
+}

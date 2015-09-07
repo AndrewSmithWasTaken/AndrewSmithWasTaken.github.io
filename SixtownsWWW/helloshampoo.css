@@ -1,0 +1,131 @@
+﻿
+        .centre {
+            text-align: center;
+        }
+
+        .floatleft {
+            float: left;
+        }
+
+        .navlinks {
+            text-decoration: none;
+        }
+
+        .navlinks:hover {
+                color: #f1c40f;
+                font-size: 150%;
+
+            }
+
+        .navlinks:link {
+                color: #bdc3c7;
+            }
+
+        .right {
+            text-align: right;
+        }
+
+        .socialmedia img {
+            padding: 0 20px 0 0;
+        }
+
+        .toplink {
+            color: #e74c3c;
+            text-decoration: none;
+        }
+
+        #gallery1 {
+            background-color: #1abc9c;
+            float: left;
+            font-family: 'Fjalla One', sans-serif;
+            height: 7.5%;
+            width: 35%;
+        }
+
+        #gallery2 {
+            background-color: #1abc9c;
+            float: left;
+            height: 7.5%;
+            width: 35%;
+        }
+
+        #gallery3 {
+            background-color: #1abc9c;
+            float: right;
+            height: 7.5%;
+            width: 35%;
+        }
+
+        #gallery4 {
+            background-color: #1abc9c;
+            float: right;
+            height: 7.5%;
+            width: 35%;
+        }
+        
+        #gallerysolo {
+            background-color: #1abc9c;
+            float: right;
+            height: 15%;
+            width: 70%;
+        }
+
+        #contenttext {
+            background-color: #d35400;
+            clear: both;
+            float: right;
+            font-family: 'Fjalla One', sans-serif;
+            padding: 1%;
+            width: 68%;
+        }
+
+        #container {
+            background-color: #3498db;
+            margin: 0 15% 
+        }
+
+        #content img {
+            width: 100%;
+        }
+
+        header {
+            background-color: #34495e;
+            color: #e74c3c;
+            font-family: 'Fjalla One', sans-serif;
+            font-size: 25px;
+            font-style: italic;
+            padding: 5px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: transparent;
+            float: left;
+            font-family: 'Fjalla One', sans-serif;
+            width: 30%;
+        }
+
+        li {
+            margin: 10px 0 10px 0;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 2%;
+            padding: 0;
+        }
+
+        footer {
+            background-color: #CCFF66;
+            clear: both;
+            color: #663300;
+            font-family: 'Fjalla One', sans-serif;
+            overflow: hidden;
+            padding: 5px;
+        }
+
+            footer div {
+                float: left;
+                width: 33.33%;
+            }
+
