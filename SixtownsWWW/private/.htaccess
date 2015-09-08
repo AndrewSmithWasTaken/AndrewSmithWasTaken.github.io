@@ -1,7 +1,0 @@
-AuthName "a1500564 Private Page"
-AuthType Basic
-AuthUserFile /u10/a1500564/privatehtmlpw.txt
-
-<Limit GET>
- require user a1500564
-</Limit>
